@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.swp
+*.log
+*.lock
+.idea/
+package-lock.json
+mockServer/node_modules/
