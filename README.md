@@ -1,3 +1,5 @@
+转自：https://github.com/breakstring/xunfeisdk
+仅做个人笔记记录。需注册登录讯飞平台。控制台创建应用，获取appId、appKey,并添加本地ip地址到应用白名单。
 # xunfeisdk
 科大讯飞 Web API 的 TypeScript 版封装，可以方便的用于NodeJS环境下。
 
